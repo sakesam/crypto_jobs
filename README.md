@@ -2,6 +2,6 @@
 
 ## Transaction Details Screenshots
 
-![Account Details](images/ganache_accounts.png)
+![Account Details](Images/ganache_accounts.png)
 
-![Transaction History](images/ganache_transactions.png)
+![Transaction History](Images/ganache_transactions.png)
